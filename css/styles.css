@@ -1,0 +1,15 @@
+/*.intro {
+  font-family: Helvetica;
+}*/
+
+p.intro {
+  font-family: Impact;
+}
+
+img.intro {
+  width: 75%;
+}
+
+h2.intro {
+  font-family: sans-serif;
+}
