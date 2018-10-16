@@ -13,3 +13,14 @@ img.intro {
 h2.intro {
   font-family: sans-serif;
 }
+
+#green {
+  background-color: green;
+}
+.black-background {
+  background-color: black;
+}
+
+.white-text {
+  color: white;
+}
